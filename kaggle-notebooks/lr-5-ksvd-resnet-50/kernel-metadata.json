@@ -1,0 +1,19 @@
+{
+  "id": "oleksandrkonovaliuk/lr-5-ksvd-resnet-50",
+  "id_no": 131805849,
+  "title": "LR_5_KSVD_ResNet_50",
+  "code_file": "lr-5-ksvd-resnet-50.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gpiosenka/sports-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

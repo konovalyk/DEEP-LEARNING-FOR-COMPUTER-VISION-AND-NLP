@@ -1,0 +1,19 @@
+{
+  "id": "oleksandrkonovaliuk/lr-4-cnn-vgg16",
+  "id_no": 131805859,
+  "title": "LR_4_CNN_VGG16",
+  "code_file": "lr-4-cnn-vgg16.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gpiosenka/cards-image-datasetclassification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,29 @@
+# Course stack: Python 3.10, PyTorch CPU (no NVIDIA GPU)
+# Install torch/vision from the PyTorch CPU index first, then the rest from PyPI.
+
+# Jupyter
+jupyter
+ipykernel
+
+# Data / viz
+numpy>=1.24,<2
+pandas>=2.0
+matplotlib
+seaborn
+plotly
+scikit-learn>=1.4
+kagglehub==0.3.12
+kaggle==1.6.17
+pillow
+tqdm
+
+# NLP
+nltk
+spacy
+gensim
+datasets==2.14.7
+evaluate==0.4.0
+transformers==4.42.4
+huggingface-hub>=0.23,<0.25
+rouge_score
+torchtext==0.15.2

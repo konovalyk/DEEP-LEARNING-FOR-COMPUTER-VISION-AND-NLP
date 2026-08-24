@@ -1,0 +1,19 @@
+{
+  "id": "oleksandrkonovaliuk/6-fruts-cnn",
+  "id_no": 131805754,
+  "title": "\u0422\u0435\u043c\u0430 6_Fruts_CNN",
+  "code_file": "6-fruts-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "kritikseth/fruit-and-vegetable-image-recognition"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
