@@ -4,4 +4,4 @@ __pycache__/
 *.pt
 *.pth
 .nltk_data/
-.data/
+data/
