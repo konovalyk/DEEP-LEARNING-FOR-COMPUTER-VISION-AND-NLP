@@ -1,0 +1,18 @@
+{
+  "id": "oleksandrkonovaliuk/dz-topic-10-konovaliuk",
+  "title": "Тема 10 Класифікація спам-повідомлень NLP & PyTorch",
+  "code_file": "dz-topic-10-konovaliuk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "shantanudhakadd/email-spam-detection-dataset-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
