@@ -1,0 +1,18 @@
+{
+  "id": "oleksandrkonovaliuk/final-project-adoption",
+  "title": "Прогноз швидкості адопції: текст, фото, злиття",
+  "code_file": "final-project-adoption.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "deep-learning-for-computer-vision-and-nlp-2026-10"
+  ],
+  "model_sources": []
+}

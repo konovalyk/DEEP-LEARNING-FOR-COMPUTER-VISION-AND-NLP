@@ -1,0 +1,16 @@
+{
+  "id": "oleksandrkonovaliuk/dz-topic-12-konovaliuk",
+  "title": "Тема 12 Машинний переклад Seq2Seq Europarl en-es",
+  "code_file": "dz-topic-12-konovaliuk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
