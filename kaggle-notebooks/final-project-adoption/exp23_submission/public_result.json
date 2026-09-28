@@ -1,0 +1,11 @@
+{
+  "experiment": "Exp23",
+  "public_score": 0.755,
+  "reported_date": "2026-09-28",
+  "source": "user-reported",
+  "previous_best_exp5": 0.6676,
+  "improvement": 0.0874,
+  "local_reference_exp22": 0.5453436044611033,
+  "submission_file": "submission_exp23.csv",
+  "private_score": null
+}

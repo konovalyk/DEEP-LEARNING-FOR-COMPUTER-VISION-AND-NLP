@@ -1,0 +1,35 @@
+{
+  "source": "C:\\Users\\admin\\Work\\Personal\\DEEP-LEARNING-FOR-COMPUTER-VISION-AND-NLP\\kaggle-notebooks\\final-project-adoption\\exp22_results.zip",
+  "data_fingerprint": "6f0a6b958db7347d0bc356ac46922505da9f0a34221d79fcb846b8b04bf833ee",
+  "config": {
+    "optimizer_seed": 42,
+    "maxiter": 120,
+    "popsize": 12,
+    "tol": 1e-07,
+    "bounds": [
+      1.0,
+      4.0
+    ],
+    "minimum_gap": 0.0001
+  },
+  "thresholds": [
+    2.1405917048219885,
+    2.61607538564665,
+    3.0521512520310248
+  ],
+  "search": {
+    "search_success": true,
+    "search_nfev": 2556,
+    "calibration_qwk": 0.5518175167394428
+  },
+  "validation_reference_exp22": 0.5453436044611033,
+  "note": "calibration_qwk fitted on all OOF; not a new validation score; public score pending",
+  "test_distribution": {
+    "1": 374,
+    "2": 517,
+    "3": 415,
+    "4": 585
+  },
+  "oof_score_std": 0.5622797843963758,
+  "test_mean_score_std": 0.583708137228147
+}
