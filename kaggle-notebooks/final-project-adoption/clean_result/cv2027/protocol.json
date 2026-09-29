@@ -1,0 +1,64 @@
+{
+  "fold_seed": 2027,
+  "config": {
+    "seed": 42,
+    "folds": 5,
+    "epochs": 2,
+    "hidden": 128,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch": 64,
+    "svd_dim": 128,
+    "max_features": 20000,
+    "min_df": 2,
+    "split_seed": 42,
+    "optimizer_seed": 42,
+    "maxiter": 120,
+    "popsize": 12,
+    "tol": 1e-07,
+    "bounds": [
+      1.0,
+      4.0
+    ],
+    "minimum_gap": 0.0001,
+    "training_seeds": [
+      42,
+      123,
+      2026
+    ]
+  },
+  "specs": {
+    "resnet_mlp": [
+      "mlp",
+      "resnet",
+      [
+        42
+      ]
+    ],
+    "resnet_cb": [
+      "cb",
+      "resnet",
+      [
+        42
+      ]
+    ],
+    "dino_mlp": [
+      "mlp",
+      "dino",
+      [
+        42
+      ]
+    ],
+    "first_rest": [
+      "mlp",
+      "first_rest",
+      [
+        42,
+        123,
+        2026
+      ]
+    ]
+  },
+  "fingerprint": "6f0a6b958db7347d0bc356ac46922505da9f0a34221d79fcb846b8b04bf833ee"
+}

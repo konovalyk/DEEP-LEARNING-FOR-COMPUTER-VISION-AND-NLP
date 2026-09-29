@@ -1,0 +1,56 @@
+{
+  "config": {
+    "seed": 42,
+    "folds": 5,
+    "epochs": 2,
+    "hidden": 128,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch": 64,
+    "svd_dim": 128,
+    "max_features": 20000,
+    "min_df": 2,
+    "split_seed": 42,
+    "optimizer_seed": 42,
+    "maxiter": 120,
+    "popsize": 12,
+    "tol": 1e-07,
+    "bounds": [
+      1.0,
+      4.0
+    ],
+    "minimum_gap": 0.0001,
+    "training_seeds": [
+      42,
+      123,
+      2026
+    ]
+  },
+  "versions": {
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.16.3",
+    "torch": "2.10.0+cu128",
+    "torchvision": "0.25.0+cu128",
+    "transformers": "5.0.0",
+    "sentence-transformers": "5.4.1",
+    "catboost": "1.2.10",
+    "nltk": "3.9.1",
+    "joblib": "1.5.3"
+  },
+  "fingerprint": "6f0a6b958db7347d0bc356ac46922505da9f0a34221d79fcb846b8b04bf833ee",
+  "run_sentence": true,
+  "run_sensitivity": true,
+  "dino": {
+    "name": "facebook/dinov2-small",
+    "revision": "ed25f3a31f01632728cabb09d1542f84ab7b0056"
+  },
+  "text": {
+    "name": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "revision": "4328cf26390c98c5e3c738b4460a05b95f4911f5"
+  },
+  "final_training": "all labeled train.csv rows",
+  "submission_recipe": "exp22_recipe"
+}

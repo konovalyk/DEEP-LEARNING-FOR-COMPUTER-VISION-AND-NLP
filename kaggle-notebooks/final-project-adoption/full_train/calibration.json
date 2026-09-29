@@ -1,0 +1,132 @@
+{
+  "text_lr": {
+    "thresholds": [
+      2.130013261793936,
+      2.510341900187556,
+      2.788454774401089
+    ],
+    "search_success": true,
+    "search_nfev": 1836,
+    "calibration_qwk": 0.3497418121254179
+  },
+  "photo_mlp": {
+    "thresholds": [
+      2.0700743584076253,
+      2.5980019549246034,
+      3.028754787960386
+    ],
+    "search_success": true,
+    "search_nfev": 2484,
+    "calibration_qwk": 0.48668285244199516
+  },
+  "resnet_mlp": {
+    "thresholds": [
+      2.092855945295872,
+      2.547666013245775,
+      2.96735832323577
+    ],
+    "search_success": true,
+    "search_nfev": 1944,
+    "calibration_qwk": 0.5093891774288424
+  },
+  "resnet_cb": {
+    "thresholds": [
+      2.184607305217706,
+      2.556345907181889,
+      3.0412845203165584
+    ],
+    "search_success": true,
+    "search_nfev": 2232,
+    "calibration_qwk": 0.5012025644046213
+  },
+  "dino_mlp": {
+    "thresholds": [
+      2.070355368405804,
+      2.5396137551496647,
+      2.9919304498213943
+    ],
+    "search_success": true,
+    "search_nfev": 1584,
+    "calibration_qwk": 0.5471944492464728
+  },
+  "dino_cb": {
+    "thresholds": [
+      2.0261023773511835,
+      2.579747415699605,
+      3.097290029559886
+    ],
+    "search_success": true,
+    "search_nfev": 2808,
+    "calibration_qwk": 0.5391591004643634
+  },
+  "first_single": {
+    "thresholds": [
+      2.0827167357921756,
+      2.63561253692376,
+      3.061408640772982
+    ],
+    "search_success": true,
+    "search_nfev": 1836,
+    "calibration_qwk": 0.5457815251043403
+  },
+  "first_rest": {
+    "thresholds": [
+      2.078294686602835,
+      2.576377664042145,
+      2.9997435188653885
+    ],
+    "search_success": true,
+    "search_nfev": 1836,
+    "calibration_qwk": 0.5540772510413619
+  },
+  "resnet_sentence": {
+    "thresholds": [
+      2.126420820077097,
+      2.6279532484530552,
+      2.9790900787525554
+    ],
+    "search_success": true,
+    "search_nfev": 1656,
+    "calibration_qwk": 0.4921028905374857
+  },
+  "dino_sentence": {
+    "thresholds": [
+      2.1131044247943036,
+      2.505971625777504,
+      3.156667735581991
+    ],
+    "search_success": true,
+    "search_nfev": 2448,
+    "calibration_qwk": 0.5377401566188874
+  },
+  "resnet_blend": {
+    "thresholds": [
+      2.0767833723446665,
+      2.614211270062193,
+      3.014517314161858
+    ],
+    "search_success": true,
+    "search_nfev": 2340,
+    "calibration_qwk": 0.5161641022117631
+  },
+  "exp22_recipe": {
+    "thresholds": [
+      2.1405917048219885,
+      2.61607538564665,
+      3.0521512520310248
+    ],
+    "search_success": true,
+    "search_nfev": 2556,
+    "calibration_qwk": 0.5518175167394428
+  },
+  "blend22_27": {
+    "thresholds": [
+      2.0973847018561096,
+      2.5668816759122897,
+      2.978596035172469
+    ],
+    "search_success": true,
+    "search_nfev": 2376,
+    "calibration_qwk": 0.5595360614789154
+  }
+}
